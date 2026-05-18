@@ -1,0 +1,13 @@
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\obj\Debug\SistemaVendasDistribuido.Form1.resources
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\obj\Debug\SistemaVendasDistribuido.Properties.Resources.resources
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\obj\Debug\SistemaVendasDistribuido.TelaClientes.resources
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\obj\Debug\SistemaVendasDistribuido.TelaMenu.resources
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\obj\Debug\SistemaVendasDistribuido.TelaProdutos.resources
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\obj\Debug\SistemaVendasDistribuido.TelaVendas.resources
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\obj\Debug\SistemaVendasDistribuido.csproj.GenerateResource.Cache
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\bin\Debug\SistemaVendasDistribuido.exe.config
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\bin\Debug\SistemaVendasDistribuido.exe
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\bin\Debug\SistemaVendasDistribuido.pdb
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\obj\Debug\SistemaVendasDistribuido.exe
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\obj\Debug\SistemaVendasDistribuido.pdb
+C:\Users\Teodora M Domingos\Desktop\DORA\2ºSGBD\SistemaVendasDistribuido\SistemaVendasDistribuido\obj\Debug\SistemaVendasDistribuido.csprojResolveAssemblyReference.cache
